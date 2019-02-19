@@ -2,3 +2,7 @@
 
 target/
 .idea/
+*.jar
+*.gz
+*.tar
+*.log
